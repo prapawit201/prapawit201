@@ -1,6 +1,6 @@
 
 
-### Hi there I'm Babe :th:
+### Hi there I'm Babe :two_hearts:
 
 <details>
   <summary>About me :mag_right: </summary>
