@@ -3,7 +3,7 @@
 ### Hi there I'm Babe:raised_hand:
 
 <details>
-  <summary><h3>About me</h3> :smiley:</summary>
+  <summary>About me:smiley:</summary>
 <br>
 Prapawit Praosppnit(Babe):birthday: : 07/04/1999 | 21 years old 
 <br>
