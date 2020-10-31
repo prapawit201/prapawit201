@@ -5,11 +5,11 @@
 <details>
   <summary>About me:smiley:</summary>
 <br>
-Prapawit Praosppnit(Babe):birthday: : 07/04/1999 | 21 years old 
+: Prapawit Praosppnit(Babe)  :birthday: : 07/04/1999 | 21 years old 
 <br>
-Chonburi, Thailand
+:: Chonburi, Thailand
   <br>
-  Now Study Information Technology @ King Mongkut's University of Technology Thonburi
+::: Now Study Information Technology @ King Mongkut's University of Technology Thonburi
 </details>
 
 
