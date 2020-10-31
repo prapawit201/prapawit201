@@ -2,6 +2,8 @@
 
 ### Hi there :raised_hand:
 - 🌱 I’m currently learning @SIT KMUTT 
+
+![Prapawit's github stats](https://github-readme-stats.vercel.app/api?username=prapawit201&count_private=true)
 <!--
 **prapawit201/prapawit201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
