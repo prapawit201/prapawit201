@@ -7,10 +7,9 @@
 
 ![Prapawit's github stats](https://github-readme-stats.vercel.app/api?username=prapawit201&show_icons=true&theme=radical)
 
-<hr/>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prapawit201&layout=compact)
+<hr/>
 
 <!--
 **prapawit201/prapawit201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
