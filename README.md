@@ -1,9 +1,9 @@
 
 
-### Hi there I'm Babe:raised_hand:
+### Hi there I'm Babe :th:
 
 <details>
-  <summary>About me:smiley:</summary>
+  <summary>About me :mag_right: </summary>
 <br>
 : Prapawit Praosppnit(Babe)  
 <br>
@@ -11,7 +11,7 @@
 :: :birthday: : 07/04/1999 | 21 years old 
 <br>
   <br>
-::: Chonburi, Thailand
+::: :house_with_garden: Chonburi, Thailand
   <br>
   <br>
 :::: Now Study Information Technology @ King Mongkut's University of Technology Thonburi
