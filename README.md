@@ -3,12 +3,15 @@
 ### Hi there I'm Babe:raised_hand:
 
 <details>
-<summary>About me :smiley:</summary>
+  <summary><h3>About me</h3> :smiley:</summary>
 <br>
 Prapawit Praosppnit(Babe):birthday: : 07/04/1999 | 21 years old 
+<br>
 Chonburi, Thailand
+  <br>
+  Now Study Information Technology @ King Mongkut's University of Technology Thonburi
 </details>
-- 🌱 I’m currently learning @SIT KMUTT 
+
 
 <hr/>
 
