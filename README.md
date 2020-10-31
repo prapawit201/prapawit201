@@ -1,6 +1,14 @@
 
 
 ### Hi there I'm Babe:raised_hand:
+
+<details open>
+<summary>About me :smiley:</summary>
+<br>
+* Prapawit Praosppnit(Babe)
+  * :birthday: : 07/04/1999 | 21 years old 
+   * Chonburi, Thailand
+</details>
 - 🌱 I’m currently learning @SIT KMUTT 
 
 <hr/>
