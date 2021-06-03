@@ -17,7 +17,8 @@
 :::: Now Study :school: Information Technology @ King Mongkut's University of Technology Thonburi
 </details>
 
-<h3> VISITOR </h3> ![](https://komarev.com/ghpvc/?username=prapawit201&color=blue)
+![](https://komarev.com/ghpvc/?username=prapawit201)
+
 <hr/>
 
 ![Prapawit's github stats](https://github-readme-stats.vercel.app/api?username=prapawit201&show_icons=true&theme=radical)
