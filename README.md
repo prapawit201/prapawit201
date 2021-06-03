@@ -25,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prapawit201&layout=compact)](https://github.com/prapawit201/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prapawit201)](https://github.com/prapawit201/github-readme-stats)
+[![prapawit201's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prapawit201)](https://github.com/prapawit201/github-readme-stats)
 
 <hr/>
 
