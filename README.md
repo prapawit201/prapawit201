@@ -17,7 +17,7 @@
 :::: Now Study :school: Information Technology @ King Mongkut's University of Technology Thonburi
 </details>
 
-![](https://komarev.com/ghpvc/?username=prapawit201)
+![](https://komarev.com/ghpvc/?username=prapawit201?color=brightgreen)
 
 <hr/>
 
