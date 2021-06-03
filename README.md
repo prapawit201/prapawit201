@@ -23,7 +23,7 @@
 ![Prapawit's github stats](https://github-readme-stats.vercel.app/api?username=prapawit201&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prapawit201&langs_count=8)](https://github.com/prapawit201/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prapawit201&layout=compact)](https://github.com/prapawit201/github-readme-stats)
 <hr/>
 
 
