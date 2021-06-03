@@ -17,7 +17,7 @@
 :::: Now Study :school: Information Technology @ King Mongkut's University of Technology Thonburi
 </details>
 
-
+<h3> VISITOR </h3> ![](https://komarev.com/ghpvc/?username=prapawit201&color=blue)
 <hr/>
 
 ![Prapawit's github stats](https://github-readme-stats.vercel.app/api?username=prapawit201&show_icons=true&theme=radical)
@@ -25,7 +25,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prapawit201&layout=compact)](https://github.com/prapawit201/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/prapawit201/count.svg)
 
 <hr/>
 
