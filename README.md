@@ -8,13 +8,13 @@
 : :man: Prapawit Praosppnit (Babe)  
 <br>
   <br>
-:: :birthday: : 07/04/1999 | 21 years old 
+:: :birthday: : 07/04/1999 | 25 years old 
 <br>
   <br>
 ::: :house_with_garden: Chonburi, Thailand
   <br>
   <br>
-:::: Now Study :school: Information Technology @ King Mongkut's University of Technology Thonburi
+:::: Information Technology @ King Mongkut's University of Technology Thonburi
 </details>
 
 ![](https://komarev.com/ghpvc/?username=prapawit201&color=fe8019&style=flat&label=PROFILE+VIEWS)
