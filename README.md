@@ -5,7 +5,7 @@
 <details>
   <summary>About me :mag_right: </summary>
 <br>
-: :man: Prapawit Praosppnit (Babe)  
+: :man: Paphawit Praosppnit (Babe)  
 <br>
   <br>
 :: :birthday: : 07/04/1999 | 25 years old 
